@@ -46,7 +46,6 @@ The project includes a detailed performance log:
 
 ### 👤 Author
 **Youssef Alkamashany**
-* 🎓 **Computer Science Student** | Modern Academy.
 * 🚀 **Aspiring MLOps & AI Data Engineer**.
 * 💼 **Team Leader** | Digital Egypt Pioneers Initiative (DEPI).
 
