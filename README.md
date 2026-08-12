@@ -46,7 +46,7 @@ The project includes a detailed performance log:
 
 ### 👤 Author
 **Youssef Alkamashany**
-* 🚀 **Aspiring MLOps/LLMOps & AI Data Engineer**.
+* 🚀 **Advancing toward MLOps/LLMOps & AI Data Engineer**.
 * 💼 Team Leader — Microsoft Data Engineering | Digital Egypt Pioneers Initiative (DEPI).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b)
